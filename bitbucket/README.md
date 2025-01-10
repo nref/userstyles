@@ -4,8 +4,8 @@ To style C# interfaces correctly (e.g. `IThing`), also install the Tampermonkey 
 
 ### Disabled
 
-[Screenshot with the style disabled](disabled.png)
+![Screenshot with the style disabled](disabled.png)
 
 ### Enabled
 
-[Screenshot with the style enabled](enabled.png)
+![Screenshot with the style enabled](enabled.png)
