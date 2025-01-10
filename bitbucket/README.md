@@ -9,3 +9,7 @@ To style C# interfaces correctly (e.g. `IThing`), also install the Tampermonkey 
 ### Enabled
 
 ![Screenshot with the style enabled](enabled.png)
+
+## Limitations
+
+Generics do not always look correct, e.g. for `Task<T>` or `IEnumerable<Thing>`, the code inside `< >` might not always have the right color.
