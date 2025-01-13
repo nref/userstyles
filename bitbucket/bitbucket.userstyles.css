@@ -32,12 +32,12 @@
         background-color: #334d2e !important;
     }
 
-    .class-name {
-        color: #4ec9b0 !important;
-    }
-
     .return-type {
         color: #dcdcaa !important;
+    }
+    
+    .class-name {
+        color: #4ec9b0 !important;
     }
 
     /* Operator */
